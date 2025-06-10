@@ -78,7 +78,7 @@ export default function Hero() {
               className="bg-gradient-to-r from-emerald-600 to-green-700 hover:from-emerald-700 hover:to-green-800 text-white px-10 py-5 text-lg font-semibold rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 border-0"
               asChild
             >
-              <a href="/grdn-ai.apk" download="GRDN AI.apk" className="flex items-center gap-3">
+              <a href="/grdn-ai.apk" download="grdn-ai.apk" className="flex items-center gap-3">
                 <Download className="w-6 h-6" />
                 Download GRDN AI
               </a>
